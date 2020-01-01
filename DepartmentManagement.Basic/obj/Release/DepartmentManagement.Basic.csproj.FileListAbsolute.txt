@@ -1,0 +1,9 @@
+E:\sh\final3\final2\DepartmentManagement\DepartmentManagement\DepartmentManagement\DepartmentManagement.Basic\bin\Release\DepartmentManagement.Basic.dll
+E:\sh\final3\final2\DepartmentManagement\DepartmentManagement\DepartmentManagement\DepartmentManagement.Basic\bin\Release\DepartmentManagement.Basic.pdb
+E:\sh\final3\final2\DepartmentManagement\DepartmentManagement\DepartmentManagement\DepartmentManagement.Basic\bin\Release\DepartmentManagement.exe
+E:\sh\final3\final2\DepartmentManagement\DepartmentManagement\DepartmentManagement\DepartmentManagement.Basic\bin\Release\DepartmentManagement.Services.dll
+E:\sh\final3\final2\DepartmentManagement\DepartmentManagement\DepartmentManagement\DepartmentManagement.Basic\bin\Release\DepartmentManagement.Services.pdb
+E:\sh\final3\final2\DepartmentManagement\DepartmentManagement\DepartmentManagement\DepartmentManagement.Basic\bin\Release\DepartmentManagement.pdb
+E:\sh\final3\final2\DepartmentManagement\DepartmentManagement\DepartmentManagement\DepartmentManagement.Basic\obj\Release\ResolveAssemblyReference.cache
+E:\sh\final3\final2\DepartmentManagement\DepartmentManagement\DepartmentManagement\DepartmentManagement.Basic\obj\Release\DepartmentManagement.Basic.dll
+E:\sh\final3\final2\DepartmentManagement\DepartmentManagement\DepartmentManagement\DepartmentManagement.Basic\obj\Release\DepartmentManagement.Basic.pdb

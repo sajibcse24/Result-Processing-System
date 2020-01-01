@@ -1,0 +1,5 @@
+E:\sh\final3\final2\DepartmentManagement\DepartmentManagement\DepartmentManagement\DepartmentManagement.Report\bin\Release\DepartmentManagement.Report.dll
+E:\sh\final3\final2\DepartmentManagement\DepartmentManagement\DepartmentManagement\DepartmentManagement.Report\bin\Release\DepartmentManagement.Report.pdb
+E:\sh\final3\final2\DepartmentManagement\DepartmentManagement\DepartmentManagement\DepartmentManagement.Report\obj\Release\ResolveAssemblyReference.cache
+E:\sh\final3\final2\DepartmentManagement\DepartmentManagement\DepartmentManagement\DepartmentManagement.Report\obj\Release\DepartmentManagement.Report.dll
+E:\sh\final3\final2\DepartmentManagement\DepartmentManagement\DepartmentManagement\DepartmentManagement.Report\obj\Release\DepartmentManagement.Report.pdb
